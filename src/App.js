@@ -1,6 +1,7 @@
 import './App.css';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
+import HomePage from './pages/HomePage/HomePage';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <Header />
       
       <main>
-        <h1>Welcome to MyApp</h1>
+        <HomePage />
       </main>
 
       <Footer />
