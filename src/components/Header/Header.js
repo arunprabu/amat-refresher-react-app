@@ -6,6 +6,7 @@ function Header(){
     <header>
       <a href="/">MyApp</a>
      <MenuList />
+     <hr/>
     </header>
   );
 }

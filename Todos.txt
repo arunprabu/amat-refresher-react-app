@@ -2,4 +2,6 @@
 2. Setup active menu 
 3. integrate bootstrap properly in create-react-app based project
 4. setup sass styles 
-  ref: https://create-react-app.dev/docs/adding-a-sass-stylesheet/
+  ref: https://create-react-app.dev/docs/adding-a-sass-stylesheet/  
+5. learn about hash router in react-router-dom 
+  
