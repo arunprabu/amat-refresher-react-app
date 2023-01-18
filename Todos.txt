@@ -8,5 +8,8 @@
 7. learn about useCallback, useMemo 
 8. TODO: connect with the backend -- fetch todos from rest api in Todos.js 
     hit the url: https://jsonplaceholder.typicode.com/todos?_limit=5 
+9. Learn about Rules of Hooks [IMPORTANT]
+    Ref: https://reactjs.org/docs/hooks-rules.html
 
+10. Learn about comparing two objects in JS 
 
