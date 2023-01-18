@@ -12,7 +12,7 @@ const HomePage = () => {
 
       <hr />
       <h3>useEffect() Hook</h3>
-      <Blog />
+      {/* <Blog /> */}
 
       <hr/>
       <h3>useRef() and useReducer() Hooks</h3> 
