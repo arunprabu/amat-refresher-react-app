@@ -2,3 +2,8 @@ body {
   margin: 0;
 }
 
+.myStyle {
+  border:solid 1px red;
+  padding: 10px 20px;
+  background: yellow;
+}
