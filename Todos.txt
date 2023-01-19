@@ -1,15 +1,18 @@
-1. setup react-router-dom
-2. Setup active menu 
-3. integrate bootstrap properly in create-react-app based project
-4. setup sass styles 
+1. setup react-router-dom [DONE]
+2. Setup active menu [INCOMPLETE]
+3. integrate bootstrap properly in create-react-app based project [DONE]
+4. setup sass styles  [DONE]
   ref: https://create-react-app.dev/docs/adding-a-sass-stylesheet/  
-5. learn about hash router in react-router-dom 
-6. explore useReducer hook
-7. learn about useCallback, useMemo 
-8. TODO: connect with the backend -- fetch todos from rest api in Todos.js 
+5. learn about hash router in react-router-dom [INCOMPLETE]
+6. explore useReducer hook [DONE]
+7. learn about useCallback, useMemo [DONE] 
+8. TODO: connect with the backend -- fetch todos from rest api in Todos.js [DONE]
     hit the url: https://jsonplaceholder.typicode.com/todos?_limit=5 
-9. Learn about Rules of Hooks [IMPORTANT]
+9. Learn about Rules of Hooks [IMPORTANT] [DONE]
     Ref: https://reactjs.org/docs/hooks-rules.html
 
-10. Learn about comparing two objects in JS 
+10. Learn about comparing two objects in JS [DONE]
+11. Learn about error boundary and also getDerivedStateFromError, componentDidCatch() 
+12. Learn about render props 
+    // 
 
