@@ -1,8 +1,10 @@
+import { NavLink } from "react-router-dom";
+
 const MenuItem = ({title, url}) => {
 
   return (
     <li>
-      <a href={url}>{title}</a>
+      <NavLink to={url}>{title}</NavLink>
     </li>
   );
 }

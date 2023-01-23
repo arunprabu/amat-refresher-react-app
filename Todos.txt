@@ -12,7 +12,9 @@
     Ref: https://reactjs.org/docs/hooks-rules.html
 
 10. Learn about comparing two objects in JS [DONE]
-11. Learn about error boundary and also getDerivedStateFromError, componentDidCatch() 
-12. Learn about render props 
-    // 
+11. Learn about error boundary and also getDerivedStateFromError, componentDidCatch() []
+12. Learn about render props [Monday/Tuesday]
+13. Lazy loading, Code Splitting, Suspense  [Monday/Tuesday]
+
+
 
